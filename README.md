@@ -30,13 +30,13 @@
 1. Clone the repository:
 
    ```bash
-      git clone GIT_URL
+      git clone https://github.com/FazilKlkt/lunacal-assignment.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-      cd lunacal-figma-assignment
+      cd lunacal-assignment
    ```
 
 3. Install dependencies:
@@ -49,6 +49,8 @@
    ```bash
       npm run dev
    ```
-   Open your browser and navigate to http://localhost:3000 to view the application.
+   Open your browser and navigate to http://localhost:5173 to view the application.
 
 ## Live Demo:
+
+[Lunacal Assignment Deployed Link](https://lunacal-assignment-fazil.vercel.app/)
